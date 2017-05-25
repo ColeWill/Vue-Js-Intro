@@ -117,6 +117,8 @@ Lets display a list of Bob's todos using a for Loop...
   		<button v-on:click="reverseMessage">Reverse Message</button>
 	</div> 
 
+![](https://statcdn.fandango.com/MPX/image/NBCU_Fandango/200/159/TropicThunder_SimpleJack.jpg)
+
 And let's make a Vue thing that allows us to decipher the hidden message.
 
 	var app5 = new Vue({
